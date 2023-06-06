@@ -1,2 +1,3 @@
 # python_learning
-python self learning
+
+python学习笔记
